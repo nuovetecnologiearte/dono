@@ -1,0 +1,26 @@
+.u-section-1 .u-sheet-1 {min-height: 585px}
+.u-section-1 .u-image-1 {width: 483px; height: 483px; background-image: url("images/b5ckwz8apczfbvsxedaz.gif"); background-position: 50% 50%; margin: 20px 79px 0 auto}
+.u-section-1 .u-text-1 {font-weight: 700; margin: -309px auto 0 118px}
+.u-section-1 .u-text-2 {margin: 20px auto 0 118px}
+.u-section-1 .u-text-3 {font-size: 0.75rem; margin: 0 746px 60px 118px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-image-1 {margin-top: 44px; margin-right: 12px}
+.u-section-1 .u-text-1 {width: auto; margin-top: -330px; margin-left: 72px}
+.u-section-1 .u-text-2 {width: auto; margin-left: 72px}
+.u-section-1 .u-text-3 {width: auto; margin-right: 553px; margin-left: 72px} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 695px}
+.u-section-1 .u-image-1 {margin-right: 4px}
+.u-section-1 .u-text-1 {margin-top: -82px; margin-left: 16px}
+.u-section-1 .u-text-2 {margin-left: 16px}
+.u-section-1 .u-text-3 {margin-right: 389px; margin-left: 16px} }
+
+@media (max-width: 767px){ .u-section-1 .u-text-1 {margin-top: -66px; margin-left: 12px}
+.u-section-1 .u-text-2 {margin-left: 12px}
+.u-section-1 .u-text-3 {margin-right: 213px; margin-left: 12px} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 500px}
+.u-section-1 .u-image-1 {width: 340px; height: 340px; margin-right: 0}
+.u-section-1 .u-text-1 {margin-top: 5px; margin-left: 15px}
+.u-section-1 .u-text-2 {margin-top: 0; margin-left: 15px}
+.u-section-1 .u-text-3 {margin-right: 10px; margin-bottom: 56px; margin-left: 15px} }

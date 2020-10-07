@@ -1,0 +1,37 @@
+.u-section-1 {min-height: 874px}
+.u-section-1 .u-image-1 {width: 1412px; min-height: 874px; background-image: url("images/pulsanton-01.jpg"); margin: 0 auto 0 calc(((100% - 1140px) / 2) + -152px)}
+.u-section-1 .u-container-layout-1 {padding: 30px}
+.u-section-1 .u-image-2 {width: 120px; height: 60px; margin: 369px 388px 0 auto}
+.u-section-1 .u-image-3 {width: 107px; height: 110px; margin: 20px auto 0}
+.u-section-1 .u-image-4 {width: 112px; height: 154px; margin: -118px 392px 0 auto}
+.u-section-1 .u-image-5 {width: 35px; height: 38px; margin: -76px 469px 0 auto}
+.u-section-1 .u-btn-1 {background-image: none; border-style: none; margin: 86px auto 0 639px; padding: 0 35px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-image-1 {margin-right: initial; margin-left: initial; width: auto}
+.u-section-1 .u-image-2 {margin-top: 349px; margin-right: 174px}
+.u-section-1 .u-image-3 {margin-top: 40px; margin-right: 437px}
+.u-section-1 .u-image-4 {width: 142px; height: 195px; margin-top: -130px; margin-right: 164px}
+.u-section-1 .u-image-5 {width: 43px; height: 46px; margin-top: -96px; margin-right: 262px}
+.u-section-1 .u-btn-1 {margin-top: 68px; margin-left: auto} }
+
+@media (max-width: 991px){ .u-section-1 .u-image-2 {margin-top: 366px; margin-right: 102px}
+.u-section-1 .u-image-3 {margin-top: 29px; margin-right: auto}
+.u-section-1 .u-image-4 {margin-top: -119px; margin-right: 92px}
+.u-section-1 .u-image-5 {margin-right: 190px}
+.u-section-1 .u-btn-1 {margin-top: 50px} }
+
+@media (max-width: 767px){ .u-section-1 .u-image-1 {min-height: 994px; width: auto; margin-right: initial; margin-left: initial}
+.u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-image-2 {margin-top: 423px; margin-right: 50px}
+.u-section-1 .u-image-3 {margin-top: 38px}
+.u-section-1 .u-image-4 {margin-top: -127px; margin-right: 39px}
+.u-section-1 .u-image-5 {margin-right: 138px}
+.u-section-1 .u-btn-1 {margin-top: 88px} }
+
+@media (max-width: 575px){ .u-section-1 {min-height: 994px}
+.u-section-1 .u-image-1 {width: 535px; margin-right: auto; margin-left: calc(((100% - 340px) / 2) + -145px)}
+.u-section-1 .u-image-2 {margin-top: 528px; margin-right: 32px}
+.u-section-1 .u-image-3 {margin-top: -22px; margin-left: 204px}
+.u-section-1 .u-image-4 {width: 100px; height: 137px; margin-top: -56px; margin-right: 42px}
+.u-section-1 .u-image-5 {width: 30px; height: 32px; margin-top: -67px; margin-right: 111px}
+.u-section-1 .u-btn-1 {margin-top: 16px} }
